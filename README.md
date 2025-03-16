@@ -22,7 +22,7 @@ cara install :
 - npm run dev
 - php artisan serve
 ## Demo
-- link demo : 
+- link demo : https://salmon-stinkbug-292782.hostingersite.com/
 - link payment : https://simulator.sandbox.midtrans.com/
 - login : email :admin@gmail.com || password : password
 
