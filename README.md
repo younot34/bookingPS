@@ -27,8 +27,19 @@ cara install :
 - login : email :admin@gmail.com || password : password
 
 ## Dokumentasi
-
-
+![Image](https://github.com/user-attachments/assets/666afd85-ae2c-4805-b2d8-b31f96b16fb2)
+![Image](https://github.com/user-attachments/assets/afbee0d9-e757-44bc-8222-f3da1aefcbaa)
+![Image](https://github.com/user-attachments/assets/0452bb2c-1cdc-4baf-bcac-6049aa13a323)
+![Image](https://github.com/user-attachments/assets/49646a14-dcea-4c7b-be01-1bcd28b86b7d)
+![Image](https://github.com/user-attachments/assets/d31cd466-776a-4442-8b9e-96eba1c9dfb0)
+![Image](https://github.com/user-attachments/assets/fae578ef-0108-4048-9f1e-ee533cff104c)
+![Image](https://github.com/user-attachments/assets/9b063344-3a89-47be-a7e8-b5e71e5c9e8e)
+![Image](https://github.com/user-attachments/assets/7cef3f48-ab6b-4c41-abe0-117d4fa7d6ee)
+![Image](https://github.com/user-attachments/assets/45a5ad5c-0b17-43b0-90dd-3ac1a2912eb2)
+![Image](https://github.com/user-attachments/assets/33db8781-4b52-4981-82bb-acd607a50d9e)
+![Image](https://github.com/user-attachments/assets/33b858c2-5392-4231-9180-850d1e640d01)
+![Image](https://github.com/user-attachments/assets/2fb18a11-a271-465a-83fa-e74a3544c319)
+![Image](https://github.com/user-attachments/assets/38dee468-19e3-4b3b-9d4c-190605226057)
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
