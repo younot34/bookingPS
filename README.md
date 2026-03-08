@@ -21,10 +21,6 @@ cara install :
 - npm install
 - npm run dev
 - php artisan serve
-## Demo
-- link demo : https://salmon-stinkbug-292782.hostingersite.com/
-- link payment : https://simulator.sandbox.midtrans.com/
-- login : email :admin@gmail.com || password : password
 
 ## Dokumentasi
 ![Image](https://github.com/user-attachments/assets/666afd85-ae2c-4805-b2d8-b31f96b16fb2)
